@@ -4,16 +4,98 @@ title: Assignments
 uid: 5c6434cb-b864-a286-b35c-ec1efd310492
 ---
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**0\. Prologue**{{< /td-colspan >}} |||
-| 1 | Introduction and preliminaries. What are media? What is a book? | Spend 1 hour reading in a library to which you have never been before. ([Some advice on reading from MIT.](http://uaap.mit.edu/tutoring-support/study-tips/tooling-and-studying/tooling-and-studying-effective-reading-and-note-taking)) |
-| {{< td-colspan 3 >}}**1\. How to Read a Book**{{< /td-colspan >}} |||
-| 2-3 | In class: Introduction to book handling (half-class in [Special Collections](https://libraries.mit.edu/archives/)) | Practice active and _quick_ reading. |
-| {{< td-colspan 3 >}}**5\. McLuhan _Medium is the Message_ – Textual Ephemera  {{< br >}}**{{< /td-colspan >}} |||
-| 10–11 | In class: Letters from the MIT Archives | Identify as many of the images in _Medium is the Message_ as you can |
-| {{< td-colspan 3 >}}**10\. Kirschenbaum – _Cloud Atlas_  {{< br >}}**{{< /td-colspan >}} |||
-| 19-20 | In class: Digital literature and legacy computing workshop | Play [Zork](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork) and other narrative games 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**0\. Prologue**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and preliminaries. What are media? What is a book?
+{{< tdclose >}}
+{{< tdopen >}}
+Spend 1 hour reading in a library to which you have never been before. ([Some advice on reading from MIT.](http://uaap.mit.edu/tutoring-support/study-tips/tooling-and-studying/tooling-and-studying-effective-reading-and-note-taking))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**1\. How to Read a Book**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+In class: Introduction to book handling (half-class in [Special Collections](https://libraries.mit.edu/archives/))
+{{< tdclose >}}
+{{< tdopen >}}
+Practice active and _quick_ reading.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**5\. McLuhan _Medium is the Message_ – Textual Ephemera  
+**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10–11
+{{< tdclose >}}
+{{< tdopen >}}
+In class: Letters from the MIT Archives
+{{< tdclose >}}
+{{< tdopen >}}
+Identify as many of the images in _Medium is the Message_ as you can
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**10\. Kirschenbaum – _Cloud Atlas_  
+**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-20
+{{< tdclose >}}
+{{< tdopen >}}
+In class: Digital literature and legacy computing workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Play [Zork](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork) and other narrative games
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Position papers
 ---------------
