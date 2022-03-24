@@ -86,7 +86,7 @@ Adler, Mortimer J. and Charles Van Doren. Chapters 5 and 14 in _How to Read a Bo
 
 Charles Atlas print advertisement "I Can Make You a New Man." _Popular Mechanics_, 1938. \[Preview with [Google Books](https://books.google.com/books?id=adsDAAAAMBAJ&lpg=PA5&ots=IyPafk-yPL&dq=charles%20atlas%20one%20week%20from%20to-night%20you'll%20see%20proof%20that%20i%20can%20make%20you%20a%20new%20man&pg=PA5#v=onepage&q&f=false)\]
 
-National Endowment for the Arts. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Reading on the Rise: A New Chapter in American Literacy (PDF)](https://www.arts.gov/sites/default/files/ReadingonRise.pdf).
+National Endowment for the Arts. [Reading on the Rise: A New Chapter in American Literacy (PDF)](https://www.arts.gov/sites/default/files/ReadingonRise.pdf).
 
 
 {{< tdclose >}}
@@ -259,7 +259,7 @@ _Medium is the Message_
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631594) McLuhan, Marshall. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Medium Is the Message." (PDF)](http://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf) Chapter 1 in _Understanding Media: The Extensions of Man._ Introduction by Lewis H. Lapham. Reprint edition. The MIT Press, 1994. ISBN: 9780262631594.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631594) McLuhan, Marshall. ["The Medium Is the Message." (PDF)](http://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf) Chapter 1 in _Understanding Media: The Extensions of Man._ Introduction by Lewis H. Lapham. Reprint edition. The MIT Press, 1994. ISBN: 9780262631594.
 
 McLuhan, Eric. "Understanding Media." In _The Essential McLuhan_. Edited by Frank Zingrone and Marshall McLuhan. Basic Books, 1996, pp. 149–179. ISBN: 9780465019953.
 
@@ -355,7 +355,7 @@ Grafton, Anthony. "The Humanist as Reader." Chapter 7 in _A History of Reading i
 
 _Recommended:_
 
-Fuentes, Carlos. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Don Quixote or the Critique of Reading." (PDF)](http://archive.wilsonquarterly.com/sites/default/files/articles/WQ_VOL1_A_1977_Article_05.pdf) The Wilson Quarterly, Autumn 1977.
+Fuentes, Carlos. ["Don Quixote or the Critique of Reading." (PDF)](http://archive.wilsonquarterly.com/sites/default/files/articles/WQ_VOL1_A_1977_Article_05.pdf) The Wilson Quarterly, Autumn 1977.
 
 
 {{< tdclose >}}
@@ -375,9 +375,9 @@ de Cervantes, Miguel. Second half of _The Adventures of Don Quixote: Abridged fr
 
 de Cervantes, Miguel. [Chapter 62](http://www.gutenberg.org/files/5946/5946-h/5946-h.htm#ch62b) in _The History of Don Quixote, Volume II., Complete._ Project Gutenberg, 2004.
 
-Borges, Jorge Luis. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Pierre Menard, Author of the _Quixote_." (PDF)](http://hispanlit.qwriting.qc.cuny.edu/files/2011/06/Borges-Pierre-Menard.pdf)
+Borges, Jorge Luis. ["Pierre Menard, Author of the _Quixote_." (PDF)](http://hispanlit.qwriting.qc.cuny.edu/files/2011/06/Borges-Pierre-Menard.pdf)
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Library of Babel." (PDF)](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf) _Collected Fictions._ Translated by Andrew Hurley. Penguin, 1998.
+———. ["The Library of Babel." (PDF)](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf) _Collected Fictions._ Translated by Andrew Hurley. Penguin, 1998.
 
 ———. ["Borges and I." (PDF)](http://www.amherstlecture.org/perry2007/Borges%20and%20I.pdf) _Labryinths._ Translated by James E. Irby. New Directions Publishing Corp., 1964.
 
